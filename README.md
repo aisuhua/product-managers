@@ -3,4 +3,7 @@
 
 ## 短文
 
-我是如何从技术转向产品的 http://ryantang.me/blog/2015/10/25/pm-road/
+[我是如何从技术转向产品的][1] - 唐韧_Ryan 
+
+
+  [1]: http://ryantang.me/blog/2015/10/25/pm-road/
