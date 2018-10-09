@@ -16,6 +16,7 @@
 
 - [The Best Career Advice From Dev Chats](https://www.samjarman.co.nz/blog/career-advice) Be Yourself, Go Get it!
 - [外国程序员发帖求助：快四十岁了，不知道以后该怎么办](http://36kr.com/p/5133609.html)
+- [Yahoo論壇／洪雪珍】你的強大，就是你的自由](https://tw.news.yahoo.com/%E3%80%90yahoo%E8%AB%96%E5%A3%87%EF%BC%8F%E6%B4%AA%E9%9B%AA%E7%8F%8D%E3%80%91%E4%BD%A0%E7%9A%84%E5%BC%B7%E5%A4%A7%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%9A%84%E8%87%AA%E7%94%B1-060016203.html)
 
   [1]: http://www.woshipm.com/pmd/224062.html
   [2]: http://mp.weixin.qq.com/s?__biz=MzA3NTM4NDE2Mw==&mid=2649546043&idx=1&sn=834765d6466c363a169dae17a6abcca5&scene=2&srcid=09031Ex5LSn3p6Vq49dm3d0i&from=timeline&isappinstalled=0#wechat_redirect
