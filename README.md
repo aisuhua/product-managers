@@ -8,6 +8,10 @@
 - [44 engineering management lessons][4]
 - [Lessons Learned in Software Development][5]
 
+## 团队管理
+
+- [高效软件开发团队的 4 个习惯](https://www.infoq.cn/article/517kFYONBzB8ba5vPeS0)
+
 ## 时间管理
 
 - [怎样才能成为办公室里最有效率的人][2]
